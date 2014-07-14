@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="libs/doha_v1.5.jar"/>
+	<classpathentry kind="lib" path="libs/doha-dpws_v1.5.jar"/>
+	<classpathentry kind="lib" path="libs/doha-jxta_v1.5.jar"/>
+	<classpathentry kind="lib" path="libs/jxta.jar"/>
+	<classpathentry kind="lib" path="libs/SmartHome.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-attachment.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-client.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-comMan_DPWS-android.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-comMan_DPWS-core.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-core.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-http_mime.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-ip_tcp_udp-android.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-ip_tcp_udp-core.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-platform-android.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-security-android.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-security-core.jar"/>
+	<classpathentry kind="lib" path="libs/ws4d-java-service_device.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
